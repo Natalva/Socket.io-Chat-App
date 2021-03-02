@@ -1,0 +1,35 @@
+ body{
+  background: #08081D;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+
+  #messageArea {
+            display: none;
+        }
+
+
+
+#userFormArea {
+          position:abolute;
+          margin-left:400px;
+          margin-top:240px;  
+          text-align: center;
+  
+         padding: 20px;
+         text-align: center;
+         display:inline-block;
+         overflow:hidden; 
+  
+    
+        width:330px;
+        height:250;   
+ 
+      box-shadow: inset 0px 4px 36px 23px rgba(255, 182, 72, 0.35);
+      background-color: #FF4C00;
+      color:white;
+      border-radius: 25px;
+ }
+
+ 
